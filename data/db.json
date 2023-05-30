@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "IPHONE",
+      "price": 25000,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "SAMSUNG",
+      "price": 20000,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "HUAWEI",
+      "price": 8000,
+      "checked": false
+    }
+  ]
+}
