@@ -1,25 +1,25 @@
 <h1 align="center">Angular-Demo-App</h1>
 <hr>
-<br>
+
 <br>
 <h4>La liste des produits dans le composant "products" :</h4>
-<img src="captures/listP.PNG" alt="">
+<img src="Caps/listProd.PNG">
 <br>
-<h4>la liste des produits (Pagination) :</h4>
-<img src="captures/serviceListPAvecPagination.PNG" alt="">
-<img src="captures/serviceListPAvecPagination-2.PNG" alt="product.service.ts">
+
+<h4>La liste des produits (Pagination) :</h4>
+<img src="Caps/serviceListPAvecPagination.PNG">
 <br>
-<h4>Faire une recherche on utilisant un "Keyword" :</h4>
-<img src="captures/chercherP.PNG" alt="">
+
+<h4>Faire une recherche en utilisant un "Keyword" :</h4>
+<img src="Caps/chercherProd.PNG">
 <br>
-<h4>Supprimer un produit :</h4>
-<img src="captures/supressionP.PNG" alt="">
+
+<h4>Suppression d'un produit :</h4>
+<img src="Caps/supressionProd.PNG">
 <br>
-<h4>Ajouter un produit dans le composant "new-product" :</h4>
-<img src="captures/addP.PNG" alt="">
+<h4>L'ajout d'un produit dans le composant "new-product" :</h4>
+<img src="Caps/addProd.PNG">
 <br>
-<h4>Les services qu'on a :</h4>
-<img src="captures/service.PNG" alt="">
+<h4>Les services:</h4>
+<img src="Caps/service.PNG">
 <br>
-<h4>les composants, le model, le service et Json-Server utilisés : </h4>
-<img src="captures/classes.PNG" alt="">
